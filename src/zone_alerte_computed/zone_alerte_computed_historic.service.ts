@@ -265,7 +265,7 @@ export class ZoneAlerteComputedHistoricService {
       }));
     }
 
-    zonesToSave = zonesToSave.map(z => {
+    zonesToSave = zonesToSave.filter(z => z.geom).map(z => {
       z.id = null;
       z.geom = JSON.parse(z.geom);
       z.niveauGravite = z.restriction.niveauGravite;
