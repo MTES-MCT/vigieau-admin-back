@@ -5954,10 +5954,10 @@ dedent@^1.0.0:
   resolved "https://registry.yarnpkg.com/dedent/-/dedent-1.5.1.tgz#4f3fc94c8b711e9bb2800d185cd6ad20f2a90aff"
   integrity sha512-+LxW+KLWxu3HW3M2w2ympwtqPrqYRzU8fqi6Fhd18fBALe15blJPI/I4+UHveMVG6lJqB4JNd4UG0S5cnVHwIg==
 
-deeks@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/deeks/-/deeks-3.1.0.tgz#ecc47c600bcc6dbda656c6d86bbc96cbe126fd41"
-  integrity sha512-e7oWH1LzIdv/prMQ7pmlDlaVoL64glqzvNgkgQNgyec9ORPHrT2jaOqMtRyqJuwWjtfb6v+2rk9pmaHj+F137A==
+deeks@3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/deeks/-/deeks-3.2.1.tgz#b8a83dc949b1ee278dc8f5e72bddd03ac3565bcc"
+  integrity sha512-D/o0k3pCG1aI1cxb/dDiWmtMc4Rh7ZQBybXpfMsw9Rbtqwg8kUA9SpYkWcw0pAUjZSnPm8MluctiS0o68r69jQ==
 
 deep-extend@^0.6.0:
   version "0.6.0"
@@ -6053,10 +6053,10 @@ display-notification@2.0.0:
     escape-string-applescript "^1.0.0"
     run-applescript "^3.0.0"
 
-doc-path@4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/doc-path/-/doc-path-4.1.1.tgz#5be8c1671877f6b719af5a6077c41904be8913ac"
-  integrity sha512-h1ErTglQAVv2gCnOpD3sFS6uolDbOKHDU1BZq+Kl3npPqroU3dYL42lUgMfd5UimlwtRgp7C9dLGwqQ5D2HYgQ==
+doc-path@4.1.4:
+  version "4.1.4"
+  resolved "https://registry.yarnpkg.com/doc-path/-/doc-path-4.1.4.tgz#a9ede160cfb776a779263dcd88640b4feeea0f81"
+  integrity sha512-yw5D++UCIB6a033PvQaUvSpW2QuKW0+DOId763n0Q4z3brxS7G8oQr8yBQ1nQFkognKrAVrV6I55TLeU9cfXTg==
 
 doctypes@^1.1.0:
   version "1.1.0"
@@ -8112,12 +8112,12 @@ jsesc@~3.0.2:
   integrity sha512-xKqzzWXDttJuOcawBt4KnKHHIf5oQ/Cxax+0PWFG+DFDgHNAdi+TXECADI+RYiFUMmx8792xsMbbgXj4CwnP4g==
 
 json-2-csv@^5.5.5:
-  version "5.5.8"
-  resolved "https://registry.yarnpkg.com/json-2-csv/-/json-2-csv-5.5.8.tgz#71c57688da215fde46efebe26b673e4664c9d8d1"
-  integrity sha512-eMQHOwV+av8Sgo+fkbEbQWOw/kwh89AZ5fNA8TYfcooG6TG1ZOL2WcPUrngIMIK8dBJitQ8QEU0zbncQ0CX4CQ==
+  version "5.6.0"
+  resolved "https://registry.yarnpkg.com/json-2-csv/-/json-2-csv-5.6.0.tgz#7b1b589a364dfa0a517de48c6418d41ad0fd6577"
+  integrity sha512-EOEkcWooN2FYMZLV1TM7BrHJEfV6/7Eexh+xmr72FADjZGuFwAlfzPdkMx2YxIldHGWkTtoL1QJGknzhJCln/w==
   dependencies:
-    deeks "3.1.0"
-    doc-path "4.1.1"
+    deeks "3.2.1"
+    doc-path "4.1.4"
 
 json-buffer@3.0.1:
   version "3.0.1"
